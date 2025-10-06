@@ -90,10 +90,6 @@ export default function Portfolio() {
     { name: 'Node.js', level: 90, icon: <Server className="w-5 h-5" /> },
     { name: 'TypeScript', level: 88, icon: <Code className="w-5 h-5" /> },
     { name: 'MongoDB', level: 85, icon: <Database className="w-5 h-5" /> },
-<<<<<<< HEAD
-=======
-    { name: 'React Native', level: 80, icon: <Smartphone className="w-5 h-5" /> },
->>>>>>> a26a6e336dc8e5d8e51e8d415dec8270d1f0dade
     { name: 'UI/UX Design', level: 75, icon: <Palette className="w-5 h-5" /> },
   ];
 
@@ -135,29 +131,18 @@ export default function Portfolio() {
 
   const experiences = [
     {
-<<<<<<< HEAD
       title: 'Full Stack Developer',
       company: 'TechnoHacks Inc.',
       period: '2025',
-=======
-      title: 'Senior Full Stack Developer',
-      company: 'Tech Solutions Inc.',
-      period: '2023 - Present',
->>>>>>> a26a6e336dc8e5d8e51e8d415dec8270d1f0dade
       description: 'Leading development of scalable web applications using modern technologies.',
       achievements: [
         'Improved application performance by 40%',
         'Led a team of 5 developers',
-<<<<<<< HEAD
         'Implemented a solution of pdf annotator'
-=======
-        'Implemented CI/CD pipelines'
->>>>>>> a26a6e336dc8e5d8e51e8d415dec8270d1f0dade
       ]
     },
     {
       title: 'Full Stack Developer',
-<<<<<<< HEAD
       company: 'IBM Skillbuild',
       period: '2024',
       description: 'Developed and maintained client projects using React and Node.js.',
@@ -176,26 +161,6 @@ export default function Portfolio() {
         'Amazing experience with a great team of volunteers and teachers',
         'Implemented responsive designs',
         'Managed Crowds and arrangements for the event'
-=======
-      company: 'Digital Innovations',
-      period: '2021 - 2023',
-      description: 'Developed and maintained multiple client projects using React and Node.js.',
-      achievements: [
-        'Built 15+ production applications',
-        'Reduced load times by 60%',
-        'Mentored junior developers'
-      ]
-    },
-    {
-      title: 'Frontend Developer',
-      company: 'StartupXYZ',
-      period: '2020 - 2021',
-      description: 'Created responsive web interfaces and improved user experience.',
-      achievements: [
-        'Increased user engagement by 35%',
-        'Implemented responsive designs',
-        'Optimized SEO performance'
->>>>>>> a26a6e336dc8e5d8e51e8d415dec8270d1f0dade
       ]
     }
   ];
@@ -422,11 +387,7 @@ export default function Portfolio() {
                     <h3 className="text-2xl font-bold">My Journey</h3>
                   </div>
                   <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-<<<<<<< HEAD
                     With over 3 years of experience in full-stack development, I specialize in creating 
-=======
-                    With over 4 years of experience in full-stack development, I specialize in creating 
->>>>>>> a26a6e336dc8e5d8e51e8d415dec8270d1f0dade
                     robust, scalable applications using modern technologies. My passion lies in solving 
                     complex problems and delivering exceptional user experiences.
                   </p>
@@ -910,11 +871,7 @@ export default function Portfolio() {
             </Button>
           </div>
           <p className="text-gray-400">
-<<<<<<< HEAD
             © 2025 Priyanshu. Built with Next.js and Tailwind CSS.
-=======
-            © 2024 Priyanshu. Built with Next.js and Tailwind CSS.
->>>>>>> a26a6e336dc8e5d8e51e8d415dec8270d1f0dade
           </p>
         </div>
       </footer>
